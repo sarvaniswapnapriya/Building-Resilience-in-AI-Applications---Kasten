@@ -22,6 +22,8 @@ Kubernetes has become the go-to platform for deploying AI applications.
 
 With its capabilities in high availability, cloud agnosticism, and resource management, Kubernetes supports the reliability and performance required for mission-critical AI workloads. Recent trends also indicate that more organizations are deploying their databases on Kubernetes for its flexibility, especially in supporting disaster recovery.
 
+![Trends](./images/trends.png)
+
 ## Vector Databases and RAG Systems
 
 Vector databases are increasingly critical in handling unstructured data for AI applications. Unlike traditional databases, these store high-dimensional vectors that capture the semantic meaning of raw inputs. Without a well-organized vector database, AI systems risk generating inaccurate or "hallucinated" responses due to missing or corrupted data. 
@@ -58,4 +60,4 @@ During the talk, the implementation and use of Kanister was showcased, setting i
 
 At Veeam, we believe that building resilience into your AI workflows is crucial for ensuring business continuity and data security. Businesses must recognize the unique challenges in managing vector databases on Kubernetes and shift towards safeguarding the data. By utilizing tools like Kanister and adopting comprehensive backup strategies, businesses can ensure their AI applications remain resilient in an ever-evolving digital landscape. Explore Kanister for your Kubernetes-based applications and take the first step toward securing your AI applications against data loss. 
 
-[Learn more about Kanister](https://docs.kasten.io/latest/kanister/kanister.html)
+[Learn more about Kanister](https://github.com/kanisterio/kanister)
